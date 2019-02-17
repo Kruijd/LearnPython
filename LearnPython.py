@@ -3,6 +3,7 @@
 # This is the same shortcut to the same action in Spyder and R-Studio.
 # Shift+ALT+E
 # Created 17-2-2019
+# by Jan Kruijdenberg
 
 
 numberstaken =[2,5,12,13,17]
